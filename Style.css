@@ -1,0 +1,157 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section {
+    margin: 75px;
+}
+#s1-div1 h1 {
+    font-size: 55px;
+    color: #464646;
+}
+#s1-div1 h1 span {
+    color: #e0553f;
+}
+#s1-div1 p {
+    color: rgb(104, 99, 99);
+}
+#s1-div2 img {
+    width: 100%;
+}
+#s1-div1 {
+    width: 50%;
+    margin-top: 85px;
+}
+#s1-div2 {
+    width: 50%;
+}
+.button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#ee7422, #f99154);
+    padding: 15px 40px;
+    border-radius: 40px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#s2-div2 h1 {
+    font-size: 40px;
+    color: #464646;
+}
+#s2-div2 p {
+    color: rgb(104, 99, 99);
+}
+#s2-div1 img {
+    width: 50%;
+    margin-left: 200px;
+    vertical-align: bottom;
+}
+#s2-div2 {
+    width: 50%;
+    margin-top: 10px;
+}
+#s2-div1 {
+    width: 50%;
+}
+#s2-div2 p {
+    margin-bottom: 60px;
+}
+#sec-2 {
+    background-image: url(images/Frame\ 58.jpg);
+    width: 100%;
+    padding-top: 50px;
+    margin: 0;
+    display: flex;
+}
+#sec-1 {
+    display: flex;
+}
+.s3-h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.s3-p {
+    width: 50%;
+    margin: auto;
+}
+#s3-div1 {
+    display: flex;
+    width: 100%;
+    margin: 30px 0px;
+}
+.s3-d1-d {
+    border-radius: 20px;
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 2px 2px 15px #afa9a9;
+}
+.img-h {
+    width: 100%;
+}
+footer {
+    background-color: #080818;
+    text-align: center;
+    padding: 20px 0px 50px 0px;
+    margin: 0;
+}
+.footer-text {
+    color: #aaa4a4;
+}
+.footer-text span {
+    color: rgb(255, 81, 0);
+}
+
+.third-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: top;
+    margin: 0;
+}
+.ex-h1 {
+    text-align: center;
+}
+.third-section-div {
+    width: 88%;
+    margin: auto;
+    display: flex;
+    margin-bottom: 100px;
+}
+.full-stack {
+    width: 50%;
+    margin-right: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0px 5px 60px 40px;
+    border-image: linear-gradient(#db6c5d, #ee270d)10;
+    border-left: 8px solid;
+    
+}
+.baby-web {
+    width: 50%;
+    margin-left: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0px 5px 60px 40px;
+    border-left: 8px solid;
+    border-image: linear-gradient(#4dc706, #78eb5b)10;
+}
+.full-h1 {
+    font-size: 40px;
+}
+.baby-h2 {
+    font-size: 40px;
+}
+.baby-web h3 {
+    color: blue;
+}
+.full-stack h3 {
+    color: blue;
+}
+.ex-h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 0);
+}
+.baby-img {
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 10px;
+}
